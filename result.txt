@@ -1,0 +1,1 @@
+{"PACK": "100ML", "EXPIRY": "12/19", "Medicine Name": "AERODIL SF EXPECT.SYP", "Salts": "Chlorpheniramine", "BATCH": "AER18001", "QTY": 2, "MRP": 81.3, "COMPANY": "GERMAN REMIDES", "classification_code": "HD"}
